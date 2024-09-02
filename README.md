@@ -1,6 +1,7 @@
 V 2.0.0.7
   PP-SELECT D461 = 0
   PP-SELECT D10300 = LotID
+  xml => V 2.0.0.5 不下Cycle Stop
 V 2.0.0.6
   PP-SELECT延遲一秒讀取D650後再計算寫入D6600
 V 2.0.0.5
